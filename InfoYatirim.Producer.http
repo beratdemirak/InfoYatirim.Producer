@@ -1,0 +1,6 @@
+@InfoYatirim.Producer_HostAddress = http://localhost:5224
+
+GET {{InfoYatirim.Producer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
